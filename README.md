@@ -11,7 +11,10 @@ This Flutter app converts the English number from 1 to 10. After reaching 10 it 
 <img src="images/Capture1.PNG"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="200"/> ![](https://media.giphy.com/media/KdBs9k4NdQyRBDEu4e/giphy.mp4)
+     width="200"/> <img src="https://media.giphy.com/media/KdBs9k4NdQyRBDEu4e/giphy.gif"
+     alt="Home Screen"
+     style="float: left; margin-right: 10px;"
+     width="200"/>
      
 ## NOTE:
 This project is subject to change by the developer and is still in development
