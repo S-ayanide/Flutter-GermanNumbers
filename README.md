@@ -4,6 +4,7 @@
 [![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-GermanNumbers.svg?style=plastic)](https://github.com/S-ayanide/Flutter-GermanNumbers/blob/master/LICENSE)
 
 A basic Flutter project which generates English numbers from 1 to 10 and translates them to German simultaneously
+1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣ 🔟
 ### 👉 If you like this repo then please give it a ⭐️
 
 ## Short Description
