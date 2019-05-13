@@ -21,6 +21,15 @@ This Flutter app converts the English number from 1 to 10. After reaching 10 it 
 ## NOTE:
 This project is subject to change by the developer and is still in development
 
+## Pull Request
+
+Pull Requests are welcome. Please follow these rules for the ease of understanding:
+* Make sure to check for available issues before raising one
+* Give me a maximum of 24-48 hours to respond
+* Have proper documentation on the parts you are changing/adding
+
+#### Feel free to contribute
+
 ## Developed & Maintained by
 [Sayan Mondal](https://github.com/S-ayanide) 
 [📷 Insta](https://www.instagram.com/s_ayanide/)
