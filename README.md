@@ -1,5 +1,7 @@
 # GermanNumbers
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![PyPI status](https://img.shields.io/pypi/status/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![GitHub issues](https://img.shields.io/github/issues/S-ayanide/Flutter-GermanNumbers.svg)](https://github.com/S-ayanide/Flutter-GermanNumbers/issues)
+[![GitHub forks](https://img.shields.io/github/forks/S-ayanide/Flutter-GermanNumbers.svg?style=social)](https://github.com/S-ayanide/Flutter-GermanNumbers/network) [![GitHub stars](https://img.shields.io/github/stars/S-ayanide/Flutter-GermanNumbers.svg?style=social)](https://github.com/S-ayanide/Flutter-GermanNumbers/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-GermanNumbers.svg?style=plastic)](https://github.com/S-ayanide/Flutter-GermanNumbers/blob/master/LICENSE)
 
 A basic Flutter project which generates English numbers from 1 to 10 and translates them to German simultaneously
 ### 👉 If you like this repo then please give it a ⭐️
@@ -22,9 +24,10 @@ This project is subject to change by the developer and is still in development
 ## Developed & Maintained by
 [Sayan Mondal](https://github.com/S-ayanide) 
 [📷 Insta](https://www.instagram.com/s_ayanide/)
-[🐤 Twitter](https://www.instagram.com/s_ayanide/)
+[🐤 Twitter](https://www.instagram.com/s_ayanide/) [![Twitter](https://img.shields.io/twitter/url/https/github.com/S-ayanide/Flutter-GermanNumbers.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FS-ayanide%2FFlutter-GermanNumbers)
 
-## License
+## License 
+[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-GermanNumbers.svg?style=plastic)](https://github.com/S-ayanide/Flutter-GermanNumbers/blob/master/LICENSE)
 ```Copyright 2019 Sayan Mondal
 
 Licensed under the Apache License, Version 2.0 (the "License");
